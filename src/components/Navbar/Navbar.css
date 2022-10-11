@@ -1,0 +1,81 @@
+nav {
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.navigator {
+    transition: all 0.2s ease;
+    width: 96%;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 2px solid;
+}
+
+.navigator-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 185px;
+}
+
+#navigator-liks {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 100%;
+}
+
+#navigator-liks>li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    list-style: none;
+    margin: 0 30px;
+}
+#navigator-liks li a {
+    text-decoration: none;
+}
+#navigator-liks li a h3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    height: 40px;
+}
+#navigator-liks>li h3:hover {
+    border-bottom: 3px solid #ff0000;
+    transition: all 0.2s ease;
+}
+
+.svg-icons {
+    font-size: 40px;
+}
+
+.btn-style {
+    background-color: transparent;
+    border: none;
+}
+
+.btn-style span {
+    border-radius: 50px;
+}
+
+#btn2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#btn2 > h3 {
+    margin: 0 10px 0 0;
+}
