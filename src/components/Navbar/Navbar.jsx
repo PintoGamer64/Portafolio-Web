@@ -31,7 +31,7 @@ export default function Navbar() {
                 background: colorBack
             }}>
                 <div className="navigator-buttons">
-                    <button id="btn1" className="btn-style" onClick={() => {
+                    <button title="Dark/Light Mode" id="btn1" className="btn-style" onClick={() => {
                         Color();
                         themeHandler();
                     }}>

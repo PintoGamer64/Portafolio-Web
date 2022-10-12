@@ -37,7 +37,7 @@ const LenguajeReducer = (state, action) => {
                 },
                 contact:
                 {
-                    title: 'Contactame',
+                    title: 'Contactame 😃',
                     descripcion: 'Puedes usar estas redes para contactarme, te estare leyendo'
                 }
             },
@@ -79,7 +79,7 @@ const LenguajeReducer = (state, action) => {
                 },
                 contact:
                 {
-                    title: 'Contact me',
+                    title: 'Contact me 😃',
                     descripcion: 'You can use these networks to contact me, I will be reading you'
                 }
             },

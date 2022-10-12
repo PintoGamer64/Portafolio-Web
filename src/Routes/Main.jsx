@@ -8,6 +8,7 @@ import ColorContext from '../context/colorContext/ColorContext';
 //Routes
 import Home from './Home/Home';
 import Works from './Works/Works';
+import Contact from './Contact/Contact';
 
 export default function MainPage() {
 
@@ -25,6 +26,7 @@ export default function MainPage() {
                 <Route path='/' element={<SetHome />} />
                 <Route path='/home' element={<Home />} />
                 <Route path='/works' element={<Works />}/>
+                <Route path='/contact' element={<Contact />}/>
             </Routes>
         </main>
     )

@@ -67,7 +67,7 @@ export default function Home() {
                     <div className="titulo" style={{
                         borderBottom: borderColor()
                     }}>
-                        <h1 style={{ color: textColor }}> {home.subtitle} </h1>
+                        <h3 style={{ color: textColor }}> {home.subtitle} </h3>
                     </div>
                     <Tecnologies />
                 </section>

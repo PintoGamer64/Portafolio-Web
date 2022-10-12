@@ -42,7 +42,7 @@ export default function LenguajeHandler({ children }) {
             },
             contact:
             {
-                title: 'Contactame',
+                title: 'Contactame 😃',
                 descripcion: 'Puedes usar estas redes para contactarme, te estare leyendo'
             }
         },

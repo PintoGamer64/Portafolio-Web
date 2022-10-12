@@ -1,0 +1,15 @@
+.body-sections-contact {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    display: flex;
+    flex-direction: rwo;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+}
+
+.body-sections-contact .project-card > img {
+    margin: 15px;
+}

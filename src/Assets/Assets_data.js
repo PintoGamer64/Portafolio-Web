@@ -13,6 +13,9 @@ import SofiaPlusRemake_DEMO from './SofiaPlusRemake_DEMO.png';
 import SofiaPlusWebServer_DEMO from './SofiaPlusWebServer_DEMO.png';
 import OokamiBotWebsite_DEMO from "./OokamiBotWebsite_DEMO.png";
 import OokamiBot_DEMO from './OokamiBot_DEMO.png';
+import Linkedin from './Linkedin.png';
+import Gmail from './Gmail.png';
+import Twitter from './Twitter.png'
 
 export {
     Home_Main,
@@ -29,5 +32,8 @@ export {
     SofiaPlusRemake_DEMO,
     SofiaPlusWebServer_DEMO,
     OokamiBotWebsite_DEMO,
-    OokamiBot_DEMO
+    OokamiBot_DEMO,
+    Gmail,
+    Linkedin,
+    Twitter
 }
