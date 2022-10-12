@@ -4,7 +4,7 @@ const Contact_data = [
     {
         id: 1,
         image: Gmail,
-        nombre: 'Correo por Gmail',
+        nombre: 'Gmail',
         link: 'mailto:cardozojoan13@gmail.com?subject=Portfolio%20%7C%20Contact%20Page&body=%2F%2FEspa%C3%B1ol%0AHola%2C%20te%20escribo%20desde%20el%20link%20de%20correo%20de%20tu%20portfolio.%20I%20am%20.....%0A%0A%2F%2FIngles%0AHello%2C%20I%20am%20writing%20to%20you%20from%20the%20email%20link%20of%20your%20portfolio.%20I%20am%20.....'
     },
     {
