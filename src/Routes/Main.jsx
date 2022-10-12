@@ -27,6 +27,7 @@ export default function MainPage() {
                 <Route path='/home' element={<Home />} />
                 <Route path='/works' element={<Works />}/>
                 <Route path='/contact' element={<Contact />}/>
+                <Route path='*' element={<SetHome />}/>
             </Routes>
         </main>
     )
